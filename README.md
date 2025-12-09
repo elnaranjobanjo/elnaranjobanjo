@@ -10,6 +10,10 @@ Machine learning engineer with a Ph.D. in applied mathematics and deep experienc
 - **Domains**: Manufacturing process optimization, ecommerce analytics, retrieval-augmented generation, PDE simulation, surrogate modeling
 - **Collaboration**: Technical writing, presenting research, mentoring analytical workflows, organizing symposiums
 
+## Cloud Certifications
+- AWS Certified Machine Learning Engineer (MLA-C01), 2025–2028
+- AWS Certified AI Practitioner (AIF-C01), 2025–2028
+
 ## Public Projects
 | Repository | Problem Space | Highlights | Core Tech |
 |------------|---------------|------------|-----------|
