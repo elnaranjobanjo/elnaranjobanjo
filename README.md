@@ -1,7 +1,7 @@
 # Sebastian Naranjo — Portfolio
 
 ## Who I Am
-Machine learning engineer with a Ph.D. in applied mathematics and deep experience building data-driven systems in high-noise, low-sample environments. I have delivered multimodal agents, refactored retrieval-augmented pipelines, and shipped surrogate models for manufacturing, ecommerce, and scientific simulations. My background includes a postdoctoral fellowship at the University of Milan-Bicocca, a mathematics Ph.D. from Oregon State University (minor in Risk & Uncertainty Quantification), and multiple internships at Los Alamos National Laboratory where I built advanced simulation tooling.
+Machine learning engineer with a Ph.D. in applied mathematics and deep experience building data-driven systems end to end. I’ve led multimodal agent work at Nedu AI, delivered manufacturing surrogates at Sandbox Semiconductor, consulted on ecommerce analytics at Cuesta Partners, and built advanced simulation tooling during multiple Los Alamos National Lab internships. Academically, I completed a mathematics Ph.D. at Oregon State University (minor in Risk & Uncertainty Quantification) followed by a postdoctoral fellowship at the University of Milan-Bicocca.
 
 ## Stack & Focus Areas
 - **Programming**: Python, SQL, C++
