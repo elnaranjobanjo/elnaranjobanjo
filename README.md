@@ -5,10 +5,10 @@ Machine learning engineer with a Ph.D. in applied mathematics and deep experienc
 
 ## Stack & Focus Areas
 - **Programming**: Python, SQL, C++
-- **ML / AI**: PyTorch, Scikit-learn, XGBoost, LightGBM, DSPy, Pipecat
-- **Cloud & Ops**: Docker, FastAPI, MLflow, Ray Tune, GitHub Actions
+- **ML / AI**: PyTorch, Scikit-learn, XGBoost, LightGBM, DSPy, Pipecat, Ray Tune
+- **Cloud & Ops**: Docker, FastAPI, MLflow, GitHub Actions
 - **Domains**: Manufacturing process optimization, ecommerce analytics, retrieval-augmented generation, PDE simulation, surrogate modeling
-- **Collaboration**: Technical writing, presenting research, mentoring analytical workflows, organizing symposiums
+- **Collaboration**: Technical writing, presenting research, mentoring analytical workflows
 
 ## Cloud Certifications
 - AWS Certified Machine Learning Engineer (MLA-C01), 2025–2028
