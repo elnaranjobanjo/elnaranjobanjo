@@ -17,8 +17,8 @@ Machine learning engineer with a Ph.D. in applied mathematics and deep experienc
 ## Public Projects
 | Repository | Problem Space | Highlights | Core Tech |
 |------------|---------------|------------|-----------|
-| [`ML-cycle-bitcoin-sandbox`](../ML-cycle-bitcoin-sandbox) | End-to-end ML lifecycle for Bitcoin trading data | Taskfile-driven ingestion → DuckDB feature store → MLflow training/registry → FastAPI deployment | Python, DuckDB, MLflow, FastAPI, Binance API |
-| [`analytics`](../analytics) | Physics-informed surrogates for Darcy flow | Task automation for FEniCS data generation, Torch training, Ray Tune HP search, diagnostics, and convergence tests | Python, FEniCS, PyTorch, Ray Tune, Matplotlib |
-| [`ai-native-refactor-demo`](../ai-native-refactor-demo) | Agentic refactor of legacy billing/subscription modules | Multi-agent pipeline captures business logic, refactors code, generates regression tests/docs, and records QA artifacts | Python, Taskfile, Pytest, prompt engineering |
+| [`ML-cycle-bitcoin-sandbox`](https://github.com/elnaranjobanjo/ML-cycle-bitcoin-sandbox) | End-to-end ML lifecycle for Bitcoin trading data | Taskfile-driven ingestion → DuckDB feature store → MLflow training/registry → FastAPI deployment | Python, DuckDB, MLflow, FastAPI, Binance API |
+| [`analytics`](https://github.com/elnaranjobanjo/analytics) | Physics-informed surrogates for Darcy flow | Task automation for FEniCS data generation, Torch training, Ray Tune HP search, diagnostics, and convergence tests | Python, FEniCS, PyTorch, Ray Tune, Matplotlib |
+| [`ai-native-refactor-demo`](https://github.com/elnaranjobanjo/ai-native-refactor-demo) | Agentic refactor of legacy billing/subscription modules | Multi-agent pipeline captures business logic, refactors code, generates regression tests/docs, and records QA artifacts | Python, Taskfile, Pytest, prompt engineering |
 
 Each repository includes a detailed README with setup instructions, automation commands, and architectural notes so you can inspect the full workflow end to end.
